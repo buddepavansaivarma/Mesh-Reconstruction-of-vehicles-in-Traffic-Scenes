@@ -37,15 +37,15 @@ Execute YOLACT on google COLAB
 
 Experiment On Yolact:
 
-![alt text](https://github.com/buddepavansaivarma/Mesh-Reconstruction-of-vehicles-in-Traffic-Scenes/blob/main/YolactOutPut_image.png)]
+![alt text](https://github.com/buddepavansaivarma/Mesh-Reconstruction-of-vehicles-in-Traffic-Scenes/blob/main/YolactOutPut_image.png)
 
 Experiment On Yolact + Pixel2Mesh:
 
-![alt text](https://github.com/buddepavansaivarma/Mesh-Reconstruction-of-vehicles-in-Traffic-Scenes/blob/main/Yolact%2Bpixel2mesh_image.png)]
+![alt text](https://github.com/buddepavansaivarma/Mesh-Reconstruction-of-vehicles-in-Traffic-Scenes/blob/main/Yolact%2Bpixel2mesh_image.png)
 
 Experiment On MCMR:
 
-![alt text](https://github.com/buddepavansaivarma/Mesh-Reconstruction-of-vehicles-in-Traffic-Scenes/blob/main/mcmr_image.png)]
+![alt text](https://github.com/buddepavansaivarma/Mesh-Reconstruction-of-vehicles-in-Traffic-Scenes/blob/main/mcmr_image.png)
 
 ## Notes
 
